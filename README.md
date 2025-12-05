@@ -30,6 +30,7 @@ This PowerShell script automates the process of downloading and launching the of
 2. Copy and paste the script into the console or save it as `Install-Windows11.ps1`.
 3. Run the script:
 
+##
 
 Notes
 
