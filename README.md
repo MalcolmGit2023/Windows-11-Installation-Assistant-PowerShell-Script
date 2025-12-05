@@ -10,6 +10,7 @@ This PowerShell script automates the process of downloading and launching the of
 
 ## When to Use
 - Upgrading Windows 10 to Windows 11 using Microsoft’s official tool.
+- Windows update is failing.
 - IT admins or power users who want a quick, automated method.
 - Managed environments where scripting is preferred.
 
